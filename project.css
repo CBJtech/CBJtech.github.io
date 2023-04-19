@@ -1,0 +1,44 @@
+#main-container{
+    width: 100%;
+    height: 86vh;
+    background: #1b4f72;
+    color: #ffffff;
+}
+
+.head{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    color: #ffffff;
+    
+}
+.links{
+    width: 100%;
+    height: 5vh;
+    color: #ffffff;
+    margin-top: 1.5vh;
+    word-spacing: 4vw;
+    margin-left: 10vw;
+    font-size: 1.7vw;
+    opacity: 0.8;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+    
+
+#img{
+    width: 39vw;
+    margin-left: 40vw;
+    margin-top: 27vh;
+    height: 50vh;
+    margin-left: 45vw;
+    
+}
+#about{
+    width: 100%;
+    height: 50vh;
+    margin-top: 42vh;
+    position: absolute;
+}
